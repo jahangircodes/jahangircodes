@@ -1,4 +1,4 @@
- <img src="./img/img.png" alt="">
+<img src="./img/img.png" alt="banner">
 <h1 align="center">Hi 👋, I'm Jahangir Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahangircodes&show_icons=true&locale=en" alt="jahangircodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahangircodes&" alt="jahangircodes" /></p>
+
