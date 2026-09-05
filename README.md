@@ -1,5 +1,24 @@
-<img src="./img/img.png" alt="">
-<h1 align="center">Hi 👋, I'm Jahangir Alam</h1>
+✨
+V2 Available Now!Redesigned UI · More features · Faster performance
+Upgrade to V2 →
+✕
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+24419
+Fork on GitHub
+8399
+
+back to edit
+
+copied
+
+download markdown
+
+download backup
+
+preview
+<h1 align="center">Hi 👋, I'm jahangircodes</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **React**
@@ -25,3 +44,27 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahangircodes&" alt="jahangircodes" /></p>
 
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me a Coffee
