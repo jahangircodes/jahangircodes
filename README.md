@@ -1,4 +1,4 @@
-<img src="./img/img.png" alt="banner">
+<img width="1905" height="560" alt="img" src="https://github.com/user-attachments/assets/7313918f-793c-4800-9185-89bbbf6d94aa" />
 <h1 align="center">Hi 👋, I'm Jahangir Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
